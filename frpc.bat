@@ -3,8 +3,8 @@ rem ======================================================================
 rem rem 
 rem ======================================================================
 
-set "frpcPath=C:\gj\guojam\is\handsome\2.0\Guojam-Is-Handsome-OS-V2.0-zip--3\frpc.exe"
-set "configFile=C:\gj\guojam\is\handsome\2.0\Guojam-Is-Handsome-OS-V2.0-zip--3\frpc.ini"
+set "frpcPath=C:\gj\guojam\is\handsome\2.0\Guojam-Is-Handsome-OS-V2.0-zip--4\frpc.exe"
+set "configFile=C:\gj\guojam\is\handsome\2.0\Guojam-Is-Handsome-OS-V2.0-zip--4\frpc.ini"
 
 
 if not exist %frpcPath% (
